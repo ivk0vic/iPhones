@@ -1,0 +1,23 @@
+* {
+    font-family: 'Montserrat';
+}
+.wrapper {
+    background-color: #f5f5f5;
+}
+h1 {
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+}
+ul li {
+    margin-top: 7em;
+    display: flex;
+}
+li img {
+    height: 30em;
+    margin-left: 10em;
+}
+div {
+    padding: 5em 0 0 5em;
+}
